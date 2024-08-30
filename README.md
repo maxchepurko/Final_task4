@@ -38,3 +38,6 @@ Tom,41,113000
 
 Результат задания — после выполнения задания у вас будет Docker-образ, который при запуске выполняет анализ данных с использованием Pandas. Скрипт выводит среднюю зарплату сотрудников и список сотрудников старше 30 лет. 
 
+
+## Docker Image
+Docker образ доступен на Docker Hub: [mchepurko/docker-pandas-app](https://hub.docker.com/r/mchepurko/docker-pandas-app)
